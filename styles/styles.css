@@ -7,8 +7,7 @@ body {
     height: 1000px;
     margin: 0 auto;
     }
-    :hover {
-        background-color: wheat;
+    
     }
 ul {
     display: inline;
